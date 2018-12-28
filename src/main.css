@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+}
+
+canvas {
+    border: 1px solid #e3e3e3;
+}
